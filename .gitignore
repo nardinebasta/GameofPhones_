@@ -1,0 +1,25 @@
+# Environment variables (contains API keys)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Data directories (game logs and generated matrices)
+data/gpt/*.json
+data/deepseek/*.json
+data/mixtral/*.json
+data/*/output/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

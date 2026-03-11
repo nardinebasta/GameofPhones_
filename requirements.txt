@@ -1,0 +1,14 @@
+# Bot Wars: Game-Theoretic Framework for LLM-Based Scam Baiting
+# Python 3.9+
+
+# LLM API clients
+openai>=1.0.0
+octoai>=0.1.0
+
+# Scientific computing and data analysis
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+
+# JSON schema validation
+jsonschema>=4.17.0
