@@ -201,18 +201,6 @@ Parameters: `t_max=50, w_o=5, w_t=5, k=0.15`
 - The released dataset includes baiter strategies and performance metrics but excludes scammer prompts and adversarial content
 - All LLM APIs are used in compliance with their respective terms of service
 
-## Citation
-
-If you use this code or dataset in your research, please cite:
-
-```bibtex
-@inproceedings{botwars2026,
-  title={Game of Phones: Harnessing Game Theory and LLMs in 'Bot Wars' to Counteract Phone Scams},
-  author={Anonymous},
-  booktitle={ECML-PKDD 2026},
-  year={2026}
-}
-```
 
 ## License
 
