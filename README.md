@@ -1,6 +1,4 @@
-# Bot Wars: Game-Theoretic Framework for LLM-Based Scam Baiting
-
-**Game of Phones: Harnessing Game Theory and LLMs in 'Bot Wars' to Counteract Phone Scams**
+# Game of Phones: Harnessing Game Theory and LLMs in 'Bot Wars' to Counteract Phone Scams
 
 This repository contains the source code for the Bot Wars framework, a game-theoretic system that enables Large Language Models (LLMs) to learn effective counter-strategies for automated scam baiting through in-context experience, without fine-tuning.
 
